@@ -1,0 +1,42 @@
+:root {
+  
+  color:white;
+  background-color:black;
+  
+}
+
+a:link {
+  
+  color: LightBlue;
+  
+}
+
+a:visited {
+  
+  color: green;
+  
+}
+
+a:hover {
+  
+  color: hotpink;
+  
+}
+
+a:active {
+  
+  color: hotpink;
+  
+}
+
+img {
+  
+  border: 8px inset #b3b3b3;
+  
+}
+
+.infoBox {
+  
+  background-color:black;
+
+}
